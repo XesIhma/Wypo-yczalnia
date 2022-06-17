@@ -1,0 +1,27 @@
+div#background{
+    background-color: #141316;
+    background-image: none;
+}
+
+div#general #film{
+    width: calc( 100% - 352px);
+    height: 100%;
+    color: #FFFFFF;
+}
+#film_info{
+    width: 60%;
+    height: 412px;
+    float:left;
+}
+#film_info p {
+    font-size:16px;
+}
+#film_player{
+    width: 40%;
+    height: 412px;
+    float:left;
+}
+#film_player img{
+    width: 100%;
+    border-radius: 12px;
+}
